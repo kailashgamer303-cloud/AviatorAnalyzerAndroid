@@ -1,0 +1,2 @@
+# AviatorAnalyzerAndroid
+ Android screenshot analyzer
